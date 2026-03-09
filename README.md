@@ -76,9 +76,4 @@ python scripts/ecommerce_analysis.py
 
 ---
 
-## 👤 Author
-
-**Tomasz Cielepak**  
-
----
 
